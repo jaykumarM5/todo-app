@@ -1,0 +1,11 @@
+.footer {
+    background-color: black;
+    color: aliceblue;
+    
+    position: absolute;
+  bottom: 0;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  
+}
